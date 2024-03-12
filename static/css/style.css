@@ -8,3 +8,22 @@ body,
 html {
   height: 100%;
 }
+
+.legend h4 {
+  margin-top: 0;
+  font-size: 16;
+  color: black;
+}
+.legend span{
+  margin-left: 5pt;
+  margin-bottom: 5pt;
+} 
+
+.legend i {
+  display: inline - block;
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+
